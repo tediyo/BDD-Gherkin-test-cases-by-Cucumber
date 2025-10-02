@@ -63,7 +63,7 @@ cucumber-login-test/
 └── 📄 README.md                               # This file
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
